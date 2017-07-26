@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-postgreSQL
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ssales
+Implementation-Vendor-Id: itteria.cat
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/spring-postg
+ reSQL/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
